@@ -4,5 +4,5 @@
 
 var looper = 1
 while (looper = 1) {
-    window.alert("Your dextop is infected! \n Please call technical support immediately \n (This is an example of a fake scam popup)")
+    window.alert("Your device has been infected with a virus! \n Unfortunately we will need to shutdown your device unless you seek help: \n Please call support: 07458699049")
 }
